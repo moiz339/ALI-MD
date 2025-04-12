@@ -1,6 +1,6 @@
-name: ali-ai
+name: Toxic-ai
 services:
-  - name: ali-ai-service
+  - name: Toxic-ai-service
     type: web
     ports:
       - 5000
